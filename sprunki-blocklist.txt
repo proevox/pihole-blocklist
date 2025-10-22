@@ -1,0 +1,7 @@
+sprunki.com
+sprunki.net
+sprunki.io
+sprunki.fun
+sprunkianimations.com
+*.sprunki.*
+*.sprunkin.*
