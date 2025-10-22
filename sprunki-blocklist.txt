@@ -1,7 +1,16 @@
 sprunki.com
+sprunki.org
+sprunkin.com
+sprunki-game.io
+sprunki.la
+sprunki.gg
+incrediboxsprunki.io
+sprunki.xyz
 sprunki.net
 sprunki.io
 sprunki.fun
 sprunkianimations.com
 *.sprunki.*
 *.sprunkin.*
+crazygames.com/game/sprunki-itn
+youtube.com/*Sprunki*
