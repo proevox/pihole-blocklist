@@ -29,3 +29,8 @@ presence.roblox.com
 rbxcdn.com
 static.rbxcdn.com
 images.rbxcdn.com
+roblox.com
+rblxcdn.com
+rbxcdn.com
+rblx.com
+rbxapis.com
