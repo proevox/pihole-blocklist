@@ -39,3 +39,8 @@ crazygames.com.br
 allwebgames.com
 www.allwebgames.com
 kbhgames.com
+castle.xyz
+www.castle.xyz
+api.castle.xyz
+cdn.castle.xyz
+
