@@ -43,3 +43,6 @@ castle.xyz
 www.castle.xyz
 api.castle.xyz
 cdn.castle.xyz
+kinemaster.com
+api.kinemaster.com
+accounts.kinemaster.com
