@@ -43,4 +43,3 @@ castle.xyz
 www.castle.xyz
 api.castle.xyz
 cdn.castle.xyz
-
